@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+# Optional: main pages explicitly allowed
+Allow: /$
+Allow: /concept-note.html
+Allow: /og.jpg
+
+Sitemap: https://www.deeptechsovereignty.com/sitemap.xml
