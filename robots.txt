@@ -3,7 +3,7 @@ Disallow:
 
 # Optional: main pages explicitly allowed
 Allow: /$
-Allow: /concept-note.html
-Allow: /og.jpg
+Allow: /concept-note
+Allow: /og.png
 
 Sitemap: https://www.deeptechsovereignty.com/sitemap.xml
